@@ -1,8 +1,9 @@
 # QA를 넘어 개발자도 알아야 할 AI 에이전트 품질 가이드
 - 정답 없는 AI 서비스의 신뢰 기준, LLM Judge 평가 전략
 
-https://www.yes24.com/product/goods/178728314 
 
+교보문고 : https://product.kyobobook.co.kr/detail/S000219252506
+Yes24 : https://www.yes24.com/product/goods/178728314
 
 <img width="388" height="508" alt="스크린샷 2026-02-20 오전 10 53 19" src="https://github.com/user-attachments/assets/bed81659-7750-40e2-ae80-4cff2948ee0b" />
 
